@@ -1,4 +1,4 @@
-# Pytorch_Bert_basics
+# Pytorch_basics
 
 Referred from:
 Abhishek Thakur Pytroch series
